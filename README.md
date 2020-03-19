@@ -8,5 +8,6 @@ The repository includes:
   2.  LeetCode  
         1) DP
         2) 递归
+  3.  排序
 
 All the codes are built on top of Python3 (Jupyter notebook), which is easy for reading and debugging. If you want to run the codes, please install the Anaconda - Jupyter notebook.
